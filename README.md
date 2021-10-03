@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Arihant2001/Arihant2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,10 +9,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Arihant Jain</h1>
+<h1 align="center">Hi, I'm Arihant Jain</h1>
 <h3 align="center">A Competitive Programming Enthusiast from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihant2001&label=Profile%20views&color=0e75b6&style=flat" alt="arihant2001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arihant2001&row=2&column=4&no-frame=true" alt="arihant2001" /></a> </p>
 
