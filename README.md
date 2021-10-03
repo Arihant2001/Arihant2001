@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arihant2001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arihant2001&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
