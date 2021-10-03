@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arihant2001" alt="arihant2001" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arihant2001&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arihantjain01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arihantjain01" height="30" width="40" /></a>
@@ -32,7 +34,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arihant2001&" alt="arihant2001" /></p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arihant2001&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3-->
